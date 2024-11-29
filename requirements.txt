@@ -1,0 +1,13 @@
+sphinx
+ipython
+matplotlib
+numpydoc
+sphinx-copybutton
+myst-parser 
+
+sphinxcontrib-bibtex
+sphinx_design
+shibuya
+# sphinx_rtd_theme
+
+pdf2image
