@@ -37,6 +37,7 @@ jobs:
           run: |
             sphinx-build -b html docs build
             mkdir -p build/examples
+            mkdir -p build/galleries
 
         - name: Make example-for-sintef-1
           uses: xu-cheng/latex-action@v2
