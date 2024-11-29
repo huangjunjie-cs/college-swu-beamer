@@ -11,7 +11,7 @@ This project is going to show some **simple but elegant** beamer templates.
 
 
 
-## Introduction
+## Introduction 🧀
 
 In this project, I will show some beamer templates for SWUer.
 
@@ -20,17 +20,28 @@ In this project, I will show some beamer templates for SWUer.
 
 This template is the  secondary creations of [SINTEF Presentation template](https://www.overleaf.com/latex/templates/sintef-presentation/jhbhdffczpnx).
 
-The demo can be found [here]()
+The example can be found [here](../gh-pages/examples/db-chapter8.pdf?raw=true)
+
+<details>
+
+<summary>🖼Some figures</summary>
+
+![](../gh-pages/galleries/db-chapter8.pdf-0.jpg)
+![](../gh-pages/galleries/db-chapter8.pdf-1.jpg)
+![](../gh-pages/galleries/db-chapter8.pdf-2.jpg)
+![](../gh-pages/galleries/db-chapter8.pdf-3.jpg)
+
+</details>
 
 
 
-## Related Interesting Work
+## Related Interesting Works 🎉
 
 + [huangjunjie-cs/simple-ucas-beamer](https://github.com/huangjunjie-cs/simple-ucas-beamer)
 + [liu-qilong/college-beamer](https://github.com/liu-qilong/college-beamer)
 
 
-## Statement
+## Statement 😑
 
 This project is **NOT** related to **ANY Official department of Southwest Univeristy**。
 
