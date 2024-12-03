@@ -22,6 +22,9 @@ This template is the  secondary creations of [SINTEF Presentation template](http
 
 The example can be found [here](../gh-pages/examples/db-chapter8.pdf?raw=true)
 
+| :---: | :----: | 
+|![](../gh-pages/galleries/db-chapter8.pdf-0.jpg) | ![](../gh-pages/galleries/db-chapter8.pdf-1.jpg)|
+
 <details>
 
 <summary>🖼Some figures</summary>
