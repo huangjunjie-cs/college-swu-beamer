@@ -1,13 +1,13 @@
-# simple-swu-beamer ✨
+# college-swu-beamer ✨
 
 
-Simple SWU Beamer (LaTeX) 西大简约模板 **Unofficial**
+College SWU Beamer (LaTeX) 西大简约模板 **Unofficial**
 
 
 
 ## Idea 🀄
 
-This project is going to show some **simple but elegant** beamer templates.
+This project is going to show some **college but elegant** beamer templates.
 
 
 
@@ -32,6 +32,7 @@ The example can be found [here](../gh-pages/examples/db-chapter8.pdf?raw=true)
 ## Related Interesting Works 🎉
 
 + [huangjunjie-cs/simple-ucas-beamer](https://github.com/huangjunjie-cs/simple-ucas-beamer)
++ [huangjunjie-cs/simple-swu-beamer](https://github.com/huangjunjie-cs/simple-swu-beamer)
 + [liu-qilong/college-beamer](https://github.com/liu-qilong/college-beamer)
 
 
